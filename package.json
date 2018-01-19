@@ -1,0 +1,26 @@
+{
+  "name": "@dxcli/repo-status",
+  "version": "1.0.0",
+  "author": "Jeff Dickey @jdxcode",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-dxcli": "^1.1.4",
+    "fs-extra": "^5.0.0",
+    "handlebars": "^4.0.11",
+    "husky": "^0.14.3",
+    "lodash": "^4.17.4"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "files": [
+    "README.md"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "git@github.com:dxcli/repo-status.git",
+  "scripts": {
+    "precommit": "node build.js",
+    "prepare": "yarn run precommit"
+  }
+}
