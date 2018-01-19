@@ -7,7 +7,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/command.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/command/badge.svg)](https://snyk.io/test/npm/@dxcli/command)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/command.svg)](https://npmjs.org/package/@dxcli/command)
-[![License](https://img.shields.io/npm/l/@dxcli/command.svg)](https://github.com/dxcli/command/blob/master/package.json)
 
 ## [@dxcli/config](https://github.com/dxcli/config)
 
@@ -18,7 +17,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/config.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/config/badge.svg)](https://snyk.io/test/npm/@dxcli/config)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/config.svg)](https://npmjs.org/package/@dxcli/config)
-[![License](https://img.shields.io/npm/l/@dxcli/config.svg)](https://github.com/dxcli/config/blob/master/package.json)
 
 ## [@dxcli/dev-circleci](https://github.com/dxcli/dev-circleci)
 
@@ -29,7 +27,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/dev-circleci.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/dev-circleci/badge.svg)](https://snyk.io/test/npm/@dxcli/dev-circleci)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/dev-circleci.svg)](https://npmjs.org/package/@dxcli/dev-circleci)
-[![License](https://img.shields.io/npm/l/@dxcli/dev-circleci.svg)](https://github.com/dxcli/dev-circleci/blob/master/package.json)
 
 ## [@dxcli/dev-commitmsg](https://github.com/dxcli/dev-commitmsg)
 
@@ -40,7 +37,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/dev-commitmsg.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/dev-commitmsg/badge.svg)](https://snyk.io/test/npm/@dxcli/dev-commitmsg)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/dev-commitmsg.svg)](https://npmjs.org/package/@dxcli/dev-commitmsg)
-[![License](https://img.shields.io/npm/l/@dxcli/dev-commitmsg.svg)](https://github.com/dxcli/dev-commitmsg/blob/master/package.json)
 
 ## [@dxcli/dev-nyc-config](https://github.com/dxcli/dev-nyc-config)
 
@@ -51,7 +47,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/dev-nyc-config.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/dev-nyc-config/badge.svg)](https://snyk.io/test/npm/@dxcli/dev-nyc-config)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/dev-nyc-config.svg)](https://npmjs.org/package/@dxcli/dev-nyc-config)
-[![License](https://img.shields.io/npm/l/@dxcli/dev-nyc-config.svg)](https://github.com/dxcli/dev-nyc-config/blob/master/package.json)
 
 ## [@dxcli/dev-semantic-release](https://github.com/dxcli/dev-semantic-release)
 
@@ -62,7 +57,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/dev-semantic-release.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/dev-semantic-release/badge.svg)](https://snyk.io/test/npm/@dxcli/dev-semantic-release)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/dev-semantic-release.svg)](https://npmjs.org/package/@dxcli/dev-semantic-release)
-[![License](https://img.shields.io/npm/l/@dxcli/dev-semantic-release.svg)](https://github.com/dxcli/dev-semantic-release/blob/master/package.json)
 
 ## [@dxcli/dev-test](https://github.com/dxcli/dev-test)
 
@@ -73,7 +67,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/dev-test.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/dev-test/badge.svg)](https://snyk.io/test/npm/@dxcli/dev-test)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/dev-test.svg)](https://npmjs.org/package/@dxcli/dev-test)
-[![License](https://img.shields.io/npm/l/@dxcli/dev-test.svg)](https://github.com/dxcli/dev-test/blob/master/package.json)
 
 ## [@dxcli/dev-tslint](https://github.com/dxcli/dev-tslint)
 
@@ -84,7 +77,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/dev-tslint.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/dev-tslint/badge.svg)](https://snyk.io/test/npm/@dxcli/dev-tslint)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/dev-tslint.svg)](https://npmjs.org/package/@dxcli/dev-tslint)
-[![License](https://img.shields.io/npm/l/@dxcli/dev-tslint.svg)](https://github.com/dxcli/dev-tslint/blob/master/package.json)
 
 ## [@dxcli/engine](https://github.com/dxcli/engine)
 
@@ -95,7 +87,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/engine.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/engine/badge.svg)](https://snyk.io/test/npm/@dxcli/engine)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/engine.svg)](https://npmjs.org/package/@dxcli/engine)
-[![License](https://img.shields.io/npm/l/@dxcli/engine.svg)](https://github.com/dxcli/engine/blob/master/package.json)
 
 ## [@dxcli/example-single-cli](https://github.com/dxcli/example-single-cli)
 
@@ -106,7 +97,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/example-single-cli.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/example-single-cli/badge.svg)](https://snyk.io/test/npm/@dxcli/example-single-cli)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/example-single-cli.svg)](https://npmjs.org/package/@dxcli/example-single-cli)
-[![License](https://img.shields.io/npm/l/@dxcli/example-single-cli.svg)](https://github.com/dxcli/example-single-cli/blob/master/package.json)
 
 ## [@dxcli/loader](https://github.com/dxcli/loader)
 
@@ -117,7 +107,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/loader.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/loader/badge.svg)](https://snyk.io/test/npm/@dxcli/loader)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/loader.svg)](https://npmjs.org/package/@dxcli/loader)
-[![License](https://img.shields.io/npm/l/@dxcli/loader.svg)](https://github.com/dxcli/loader/blob/master/package.json)
 
 ## [@dxcli/manifest-file](https://github.com/dxcli/manifest-file)
 
@@ -128,7 +117,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/manifest-file.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/manifest-file/badge.svg)](https://snyk.io/test/npm/@dxcli/manifest-file)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/manifest-file.svg)](https://npmjs.org/package/@dxcli/manifest-file)
-[![License](https://img.shields.io/npm/l/@dxcli/manifest-file.svg)](https://github.com/dxcli/manifest-file/blob/master/package.json)
 
 ## [@dxcli/parser](https://github.com/dxcli/parser)
 
@@ -139,7 +127,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/parser.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/parser/badge.svg)](https://snyk.io/test/npm/@dxcli/parser)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/parser.svg)](https://npmjs.org/package/@dxcli/parser)
-[![License](https://img.shields.io/npm/l/@dxcli/parser.svg)](https://github.com/dxcli/parser/blob/master/package.json)
 
 ## [@dxcli/screen](https://github.com/dxcli/screen)
 
@@ -150,7 +137,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/screen.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/screen/badge.svg)](https://snyk.io/test/npm/@dxcli/screen)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/screen.svg)](https://npmjs.org/package/@dxcli/screen)
-[![License](https://img.shields.io/npm/l/@dxcli/screen.svg)](https://github.com/dxcli/screen/blob/master/package.json)
 
 ## [@dxcli/version](https://github.com/dxcli/version)
 
@@ -161,7 +147,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/version.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/version/badge.svg)](https://snyk.io/test/npm/@dxcli/version)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/version.svg)](https://npmjs.org/package/@dxcli/version)
-[![License](https://img.shields.io/npm/l/@dxcli/version.svg)](https://github.com/dxcli/version/blob/master/package.json)
 
 ## [cli-ux](https://github.com/dxcli/cli-ux)
 
@@ -172,7 +157,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/cli-ux.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/cli-ux/badge.svg)](https://snyk.io/test/npm/cli-ux)
 [![Downloads/week](https://img.shields.io/npm/dw/cli-ux.svg)](https://npmjs.org/package/cli-ux)
-[![License](https://img.shields.io/npm/l/cli-ux.svg)](https://github.com/dxcli/cli-ux/blob/master/package.json)
 
 ## [create-dxcli](https://github.com/dxcli/create-dxcli)
 
@@ -183,7 +167,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/create-dxcli.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/create-dxcli/badge.svg)](https://snyk.io/test/npm/create-dxcli)
 [![Downloads/week](https://img.shields.io/npm/dw/create-dxcli.svg)](https://npmjs.org/package/create-dxcli)
-[![License](https://img.shields.io/npm/l/create-dxcli.svg)](https://github.com/dxcli/create-dxcli/blob/master/package.json)
 
 ## [eslint-config-dxcli](https://github.com/dxcli/eslint-config-dxcli)
 
@@ -194,7 +177,6 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/eslint-config-dxcli.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/eslint-config-dxcli/badge.svg)](https://snyk.io/test/npm/eslint-config-dxcli)
 [![Downloads/week](https://img.shields.io/npm/dw/eslint-config-dxcli.svg)](https://npmjs.org/package/eslint-config-dxcli)
-[![License](https://img.shields.io/npm/l/eslint-config-dxcli.svg)](https://github.com/dxcli/eslint-config-dxcli/blob/master/package.json)
 
 ## [generator-dxcli](https://github.com/dxcli/generator-dxcli)
 
@@ -205,4 +187,3 @@
 [![Greenkeeper](https://badges.greenkeeper.io/dxcli/generator-dxcli.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/generator-dxcli/badge.svg)](https://snyk.io/test/npm/generator-dxcli)
 [![Downloads/week](https://img.shields.io/npm/dw/generator-dxcli.svg)](https://npmjs.org/package/generator-dxcli)
-[![License](https://img.shields.io/npm/l/generator-dxcli.svg)](https://github.com/dxcli/generator-dxcli/blob/master/package.json)

@@ -20,7 +20,8 @@
   "main": "index.js",
   "repository": "git@github.com:dxcli/repo-status.git",
   "scripts": {
-    "precommit": "node build.js",
-    "prepare": "yarn run precommit"
+    "build": "node build.js",
+    "precommit": "yarn run build && git add README.md",
+    "prepare": "yarn run build"
   }
 }
