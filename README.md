@@ -78,15 +78,45 @@
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/engine/badge.svg)](https://snyk.io/test/npm/@dxcli/engine)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/engine.svg)](https://npmjs.org/package/@dxcli/engine)
 
-## [@dxcli/example-single-cli](https://github.com/dxcli/example-single-cli)
+## [@dxcli/example-multi-cli-javascript](https://github.com/dxcli/example-multi-cli-javascript)
 
-[![Version](https://img.shields.io/npm/v/@dxcli/example-single-cli.svg)](https://npmjs.org/package/@dxcli/example-single-cli)
-[![CircleCI](https://circleci.com/gh/dxcli/example-single-cli/tree/master.svg?style=svg)](https://circleci.com/gh/dxcli/example-single-cli/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/dxcli/example-single-cli?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/example-single-cli/branch/master)
-[![Codecov](https://codecov.io/gh/dxcli/example-single-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/dxcli/example-single-cli)
-[![Greenkeeper](https://badges.greenkeeper.io/dxcli/example-single-cli.svg)](https://greenkeeper.io/)
-[![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/example-single-cli/badge.svg)](https://snyk.io/test/npm/@dxcli/example-single-cli)
-[![Downloads/week](https://img.shields.io/npm/dw/@dxcli/example-single-cli.svg)](https://npmjs.org/package/@dxcli/example-single-cli)
+[![Version](https://img.shields.io/npm/v/@dxcli/example-multi-cli-javascript.svg)](https://npmjs.org/package/@dxcli/example-multi-cli-javascript)
+[![CircleCI](https://circleci.com/gh/dxcli/example-multi-cli-javascript/tree/master.svg?style=svg)](https://circleci.com/gh/dxcli/example-multi-cli-javascript/tree/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/dxcli/example-multi-cli-javascript?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/example-multi-cli-javascript/branch/master)
+[![Codecov](https://codecov.io/gh/dxcli/example-multi-cli-javascript/branch/master/graph/badge.svg)](https://codecov.io/gh/dxcli/example-multi-cli-javascript)
+[![Greenkeeper](https://badges.greenkeeper.io/dxcli/example-multi-cli-javascript.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/example-multi-cli-javascript/badge.svg)](https://snyk.io/test/npm/@dxcli/example-multi-cli-javascript)
+[![Downloads/week](https://img.shields.io/npm/dw/@dxcli/example-multi-cli-javascript.svg)](https://npmjs.org/package/@dxcli/example-multi-cli-javascript)
+
+## [@dxcli/example-multi-cli-typescript](https://github.com/dxcli/example-multi-cli-typescript)
+
+[![Version](https://img.shields.io/npm/v/@dxcli/example-multi-cli-typescript.svg)](https://npmjs.org/package/@dxcli/example-multi-cli-typescript)
+[![CircleCI](https://circleci.com/gh/dxcli/example-multi-cli-typescript/tree/master.svg?style=svg)](https://circleci.com/gh/dxcli/example-multi-cli-typescript/tree/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/dxcli/example-multi-cli-typescript?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/example-multi-cli-typescript/branch/master)
+[![Codecov](https://codecov.io/gh/dxcli/example-multi-cli-typescript/branch/master/graph/badge.svg)](https://codecov.io/gh/dxcli/example-multi-cli-typescript)
+[![Greenkeeper](https://badges.greenkeeper.io/dxcli/example-multi-cli-typescript.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/example-multi-cli-typescript/badge.svg)](https://snyk.io/test/npm/@dxcli/example-multi-cli-typescript)
+[![Downloads/week](https://img.shields.io/npm/dw/@dxcli/example-multi-cli-typescript.svg)](https://npmjs.org/package/@dxcli/example-multi-cli-typescript)
+
+## [@dxcli/example-single-cli-javascript](https://github.com/dxcli/example-single-cli-javascript)
+
+[![Version](https://img.shields.io/npm/v/@dxcli/example-single-cli-javascript.svg)](https://npmjs.org/package/@dxcli/example-single-cli-javascript)
+[![CircleCI](https://circleci.com/gh/dxcli/example-single-cli-javascript/tree/master.svg?style=svg)](https://circleci.com/gh/dxcli/example-single-cli-javascript/tree/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/dxcli/example-single-cli-javascript?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/example-single-cli-javascript/branch/master)
+[![Codecov](https://codecov.io/gh/dxcli/example-single-cli-javascript/branch/master/graph/badge.svg)](https://codecov.io/gh/dxcli/example-single-cli-javascript)
+[![Greenkeeper](https://badges.greenkeeper.io/dxcli/example-single-cli-javascript.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/example-single-cli-javascript/badge.svg)](https://snyk.io/test/npm/@dxcli/example-single-cli-javascript)
+[![Downloads/week](https://img.shields.io/npm/dw/@dxcli/example-single-cli-javascript.svg)](https://npmjs.org/package/@dxcli/example-single-cli-javascript)
+
+## [@dxcli/example-single-cli-typescript](https://github.com/dxcli/example-single-cli-typescript)
+
+[![Version](https://img.shields.io/npm/v/@dxcli/example-single-cli-typescript.svg)](https://npmjs.org/package/@dxcli/example-single-cli-typescript)
+[![CircleCI](https://circleci.com/gh/dxcli/example-single-cli-typescript/tree/master.svg?style=svg)](https://circleci.com/gh/dxcli/example-single-cli-typescript/tree/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/dxcli/example-single-cli-typescript?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/example-single-cli-typescript/branch/master)
+[![Codecov](https://codecov.io/gh/dxcli/example-single-cli-typescript/branch/master/graph/badge.svg)](https://codecov.io/gh/dxcli/example-single-cli-typescript)
+[![Greenkeeper](https://badges.greenkeeper.io/dxcli/example-single-cli-typescript.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/example-single-cli-typescript/badge.svg)](https://snyk.io/test/npm/@dxcli/example-single-cli-typescript)
+[![Downloads/week](https://img.shields.io/npm/dw/@dxcli/example-single-cli-typescript.svg)](https://npmjs.org/package/@dxcli/example-single-cli-typescript)
 
 ## [@dxcli/loader](https://github.com/dxcli/loader)
 
