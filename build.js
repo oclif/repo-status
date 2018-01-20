@@ -20,7 +20,6 @@ const data = {
     ...[
       'command',
       'config',
-      'dev-circleci',
       'dev-commitmsg',
       'dev-nyc-config',
       'dev-semantic-release',

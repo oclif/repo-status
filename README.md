@@ -18,16 +18,6 @@
 [![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/config/badge.svg)](https://snyk.io/test/npm/@dxcli/config)
 [![Downloads/week](https://img.shields.io/npm/dw/@dxcli/config.svg)](https://npmjs.org/package/@dxcli/config)
 
-## [@dxcli/dev-circleci](https://github.com/dxcli/dev-circleci)
-
-[![Version](https://img.shields.io/npm/v/@dxcli/dev-circleci.svg)](https://npmjs.org/package/@dxcli/dev-circleci)
-[![CircleCI](https://circleci.com/gh/dxcli/dev-circleci/tree/master.svg?style=svg)](https://circleci.com/gh/dxcli/dev-circleci/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/dxcli/dev-circleci?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/dev-circleci/branch/master)
-[![Codecov](https://codecov.io/gh/dxcli/dev-circleci/branch/master/graph/badge.svg)](https://codecov.io/gh/dxcli/dev-circleci)
-[![Greenkeeper](https://badges.greenkeeper.io/dxcli/dev-circleci.svg)](https://greenkeeper.io/)
-[![Known Vulnerabilities](https://snyk.io/test/npm/@dxcli/dev-circleci/badge.svg)](https://snyk.io/test/npm/@dxcli/dev-circleci)
-[![Downloads/week](https://img.shields.io/npm/dw/@dxcli/dev-circleci.svg)](https://npmjs.org/package/@dxcli/dev-circleci)
-
 ## [@dxcli/dev-commitmsg](https://github.com/dxcli/dev-commitmsg)
 
 [![Version](https://img.shields.io/npm/v/@dxcli/dev-commitmsg.svg)](https://npmjs.org/package/@dxcli/dev-commitmsg)
