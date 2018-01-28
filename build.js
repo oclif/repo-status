@@ -9,7 +9,6 @@ const data = {
       'cli-ux',
       'create-dxcli',
       'eslint-config-dxcli',
-      'generator-dxcli',
     ].map(name => ({
       name,
       repo: {
@@ -20,21 +19,26 @@ const data = {
     ...[
       'command',
       'config',
-      'dev-commitmsg',
-      'dev-nyc-config',
-      'dev-semantic-release',
-      'dev-test',
-      'dev-tslint',
+      'dev',
+      'dxcli',
       'engine',
-      'example-multi-cli-javascript',
-      'example-multi-cli-typescript',
-      'example-single-cli-javascript',
-      'example-single-cli-typescript',
+      'example-multi-js',
+      'example-multi-ts',
+      'example-plugin-js',
+      'example-plugin-ts',
+      'example-single-js',
+      'example-single-ts',
+      'help',
       'loader',
       'manifest-file',
       'not-found',
+      'nyc-config',
       'parser',
+      'plugins',
       'screen',
+      'semantic-release',
+      'test',
+      'tslint',
       'version',
     ].map(name => ({
       name: `@dxcli/${name}`,
@@ -44,8 +48,8 @@ const data = {
       },
     })),
   ])
-  .sortBy('name')
-  .value(),
+    .sortBy('name')
+    .value(),
 }
 
 fs.writeFileSync('./README.md', template(data).trim())
