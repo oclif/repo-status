@@ -39,6 +39,7 @@ const data = {
       'version',
     ].map(name => ({
       name: `@anycli/${name}`,
+      appveyor: name === 'cli' ? 'heroku/cli-m41wo' : `heroku/${name}`,
       repo: {
         user: 'anycli',
         name,
