@@ -1,12 +1,5 @@
-{{~#each projects}}
-
-## [{{this.name}}](https://github.com/{{this.repo.user}}/{{this.repo.name}})
-
-[![Version](https://img.shields.io/npm/v/{{this.name}}.svg)](https://npmjs.org/package/{{this.name}})
-[![CircleCI](https://circleci.com/gh/{{this.repo.user}}/{{this.repo.name}}/tree/master.svg?style=svg)](https://circleci.com/gh/{{this.repo.user}}/{{this.repo.name}}/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/{{this.repo.user}}/{{this.repo.name}}?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/{{this.repo.name}}/branch/master)
-[![Codecov](https://codecov.io/gh/{{this.repo.user}}/{{this.repo.name}}/branch/master/graph/badge.svg)](https://codecov.io/gh/{{this.repo.user}}/{{this.repo.name}})
-[![Greenkeeper](https://badges.greenkeeper.io/{{this.repo.user}}/{{this.repo.name}}.svg)](https://greenkeeper.io/)
-[![Known Vulnerabilities](https://snyk.io/test/npm/{{this.name}}/badge.svg)](https://snyk.io/test/npm/{{this.name}})
-[![Downloads/week](https://img.shields.io/npm/dw/{{this.name}}.svg)](https://npmjs.org/package/{{this.name}})
+| Repository | CircleCI | Appveyor CI | Codecov | Greenkeeper | Snyk | Downloads/week |
+|:---------- |:-------- |:----------- |:------- |:----------- |:---- |:-------------- |
+{{#each projects}}
+| **[{{this.name}}](https://github.com/{{this.repo.user}}/{{this.repo.name}})** | [![Version](https://img.shields.io/npm/v/{{this.name}}.svg)](https://npmjs.org/package/{{this.name}}) | [![CircleCI](https://circleci.com/gh/{{this.repo.user}}/{{this.repo.name}}/tree/master.svg?style=svg)](https://circleci.com/gh/{{this.repo.user}}/{{this.repo.name}}/tree/master) | [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/{{this.repo.user}}/{{this.repo.name}}?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/{{this.repo.name}}/branch/master) | [![Codecov](https://codecov.io/gh/{{this.repo.user}}/{{this.repo.name}}/branch/master/graph/badge.svg)](https://codecov.io/gh/{{this.repo.user}}/{{this.repo.name}}) | [![Greenkeeper](https://badges.greenkeeper.io/{{this.repo.user}}/{{this.repo.name}}.svg)](https://greenkeeper.io/) | [![Known Vulnerabilities](https://snyk.io/test/npm/{{this.name}}/badge.svg)](https://snyk.io/test/npm/{{this.name}}) | [![Downloads/week](https://img.shields.io/npm/dw/{{this.name}}.svg)](https://npmjs.org/package/{{this.name}}) |
 {{/each}}
