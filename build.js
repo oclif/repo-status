@@ -7,20 +7,18 @@ const data = {
   projects: _([
     ...[
       'cli-ux',
-      'create-dxcli',
-      'eslint-config-dxcli',
+      'eslint-config-anycli',
     ].map(name => ({
       name,
       repo: {
-        user: 'dxcli',
+        user: 'anycli',
         name,
       },
     })),
     ...[
       'command',
       'config',
-      'dev',
-      'dxcli',
+      'cli',
       'engine',
       'example-multi-js',
       'example-multi-ts',
@@ -29,7 +27,6 @@ const data = {
       'example-single-js',
       'example-single-ts',
       'help',
-      'loader',
       'manifest-file',
       'not-found',
       'nyc-config',
@@ -41,15 +38,15 @@ const data = {
       'tslint',
       'version',
     ].map(name => ({
-      name: `@dxcli/${name}`,
+      name: `@anycli/${name}`,
       repo: {
-        user: 'dxcli',
+        user: 'anycli',
         name,
       },
     })),
   ])
-    .sortBy('name')
-    .value(),
+  .sortBy('name')
+  .value(),
 }
 
 fs.writeFileSync('./README.md', template(data).trim())
