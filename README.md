@@ -60,7 +60,7 @@ Download Stats
 ==============
 
 | Repository | Week | Month | Year | Total |
-|:---------- |:----- |:---- |:----- |
+|:---------- |:----- |:---- |:---- |:----- |
 | **[@anycli/cli](https://github.com/anycli/cli)** | [![Downloads/week](https://img.shields.io/npm/dw/@anycli/cli.svg)](https://npmjs.org/package/@anycli/cli) | [![Downloads/month](https://img.shields.io/npm/dm/@anycli/cli.svg)](https://npmjs.org/package/@anycli/cli) | [![Downloads/year](https://img.shields.io/npm/dy/@anycli/cli.svg)](https://npmjs.org/package/@anycli/cli) | [![Downloads/total](https://img.shields.io/npm/dt/@anycli/cli.svg)](https://npmjs.org/package/@anycli/cli) |
 | **[@anycli/command](https://github.com/anycli/command)** | [![Downloads/week](https://img.shields.io/npm/dw/@anycli/command.svg)](https://npmjs.org/package/@anycli/command) | [![Downloads/month](https://img.shields.io/npm/dm/@anycli/command.svg)](https://npmjs.org/package/@anycli/command) | [![Downloads/year](https://img.shields.io/npm/dy/@anycli/command.svg)](https://npmjs.org/package/@anycli/command) | [![Downloads/total](https://img.shields.io/npm/dt/@anycli/command.svg)](https://npmjs.org/package/@anycli/command) |
 | **[@anycli/config](https://github.com/anycli/config)** | [![Downloads/week](https://img.shields.io/npm/dw/@anycli/config.svg)](https://npmjs.org/package/@anycli/config) | [![Downloads/month](https://img.shields.io/npm/dm/@anycli/config.svg)](https://npmjs.org/package/@anycli/config) | [![Downloads/year](https://img.shields.io/npm/dy/@anycli/config.svg)](https://npmjs.org/package/@anycli/config) | [![Downloads/total](https://img.shields.io/npm/dt/@anycli/config.svg)](https://npmjs.org/package/@anycli/config) |
