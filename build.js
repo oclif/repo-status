@@ -7,11 +7,11 @@ const data = {
   projects: _([
     ...[
       'cli-ux',
-      'eslint-config-anycli',
+      'eslint-config-oclif',
     ].map(name => ({
       name,
       repo: {
-        user: 'anycli',
+        user: 'oclif',
         name,
       },
     })),
@@ -38,10 +38,10 @@ const data = {
       'tslint',
       'version-plugin',
     ].map(name => ({
-      name: `@anycli/${name}`,
+      name: `@oclif/${name}`,
       appveyor: name === 'cli' ? 'heroku/cli-m41wo' : `heroku/${name}`,
       repo: {
-        user: 'anycli',
+        user: 'oclif',
         name,
       },
     })),
