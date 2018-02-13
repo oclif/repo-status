@@ -7,6 +7,7 @@ const data = {
   projects: _([
     ...[
       'cli-ux',
+      'oclif',
       'eslint-config-oclif',
     ].map(name => ({
       name,
@@ -27,7 +28,6 @@ const data = {
       'example-single-js',
       'example-single-ts',
       'nyc-config',
-      'oclif',
       'parser',
       'plugin-help',
       'plugin-legacy',
