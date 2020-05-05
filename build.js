@@ -7,8 +7,10 @@ const data = {
   projects: _([
     ...[
       'cli-ux',
-      'oclif',
       'eslint-config-oclif',
+      'fancy-test',
+      'fancy-test-nock',
+      'oclif',
     ].map(name => ({
       name,
       repo: {
@@ -17,6 +19,7 @@ const data = {
       },
     })),
     ...[
+      'color',
       'command',
       'config',
       'dev-cli',
@@ -29,10 +32,15 @@ const data = {
       'example-single-ts',
       'nyc-config',
       'parser',
+      'plugin-autocomplete',
+      'plugin-commands',
       'plugin-help',
       'plugin-legacy',
       'plugin-not-found',
       'plugin-plugins',
+      'plugin-update',
+      'plugin-warn-if-update-available',
+      'plugin-which',
       'screen',
       'semantic-release',
       'test',
